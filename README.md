@@ -1,9 +1,9 @@
 ### Oii! Eu sou a Carla 👋
+##
 
 - 🔭 Eu estou cursando Análise e desenvolvimento de sistemas
-- 🌱 Quero me tornar uma Front-End
-- 📫 Meu contato : carlabraga799@gmail.com
-- 😄 Pronomes: Ela/Dela
+- 🌱 Estudando para ser uma Front-End
+
 
 <div align="center">
   <a href="https://github.com/carlabraga1">
@@ -28,3 +28,7 @@
   <a href="https://www.linkedin.com/in/carla-braga-vargas" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
+
+
+
+
