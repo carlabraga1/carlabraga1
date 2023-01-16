@@ -5,11 +5,8 @@
 - 🌱 Estudando para ser uma Front-End
 
 
-<div align="center">
-  <a href="https://github.com/carlabraga1">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=carlabraga1&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlabraga1&layout=compact&langs_count=7&theme=gruvbox"/>
-</div>
+
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Carla-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Carla-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
