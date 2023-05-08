@@ -15,7 +15,7 @@
   <img align="center" alt="Carla-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
    
-  <a href="https://picasion.com/"> <img src="https://i.picasion.com/pic92/49fd734330af04ed8a5b18ad9aca793e.gif" img align="right" alt="Carla-pic" height="150" style="border-radius:50px;alt="https://picasion.com/" />
+
 
   </div>
    
