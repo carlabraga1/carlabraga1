@@ -13,12 +13,8 @@
   <img align="center" alt="Carla-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Carla-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Carla-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlabraga1&show_icons=true&locale=pt-br&count_private=true&langs_count=10&&theme=dracula" alt="carlabraga1" />
-   
-
-
-  </div>
+     </div>
+     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlabraga1&show_icons=true&locale=pt-br&count_private=true&langs_count=10&&theme=dracula" alt="carlabraga1" />
    
   
   ##
