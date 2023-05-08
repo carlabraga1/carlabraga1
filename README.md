@@ -16,7 +16,7 @@
   <br>
 
      </div>
-     <div style = "display: inline_block">
+     <div>
        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlabraga1&show_icons=true&locale=pt-br&count_private=true&langs_count=10&&theme=dracula" alt="carlabraga1" />
   </div>
      
