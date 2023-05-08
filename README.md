@@ -16,7 +16,7 @@
   
    
   <a href="https://picasion.com/"> <img src="https://i.picasion.com/pic92/49fd734330af04ed8a5b18ad9aca793e.gif" img align="right" alt="Carla-pic" height="150" style="border-radius:50px;alt="https://picasion.com/" />
-    </a><br/><a href="https://picasion.com/"></a>
+
   </div>
    
   
