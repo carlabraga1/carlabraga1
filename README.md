@@ -13,6 +13,7 @@
   <img align="center" alt="Carla-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Carla-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Carla-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlabraga1&show_icons=true&locale=pt-br&count_private=true&langs_count=10&&theme=dracula" alt="carlabraga1" />
   <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/49fd734330af04ed8a5b18ad9aca793e.gif" img align="right" alt="Carla-pic" height="150" style="border-radius:50px;alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
   </div>
   
