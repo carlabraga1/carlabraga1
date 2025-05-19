@@ -9,7 +9,6 @@
 
   - 🌱 Passionate about front-end development 😍
 
-  - 🔭 I am looking for my first job opportunity. My dream is to become a great professional in this field!
 </p>
  
  &nbsp;
