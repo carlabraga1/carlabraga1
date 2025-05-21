@@ -3,11 +3,12 @@
     <summary><h1 style="display: inline-block">Hello World!🖐</h1></summary>
 </div>
 <p align="center">
-  Hii, I'm Carla 🌻! Systems Analysis and Development Student from Brazil.
+  Hii, I'm Carla 🌻! I am a Fullstack developer !!
   
 ##
 
-  - 🌱 Passionate about front-end development 😍
+  - 🌱 Passionate about technology 😍
+  - Always in constant learning 📚
 
 </p>
  
