@@ -14,11 +14,6 @@
  
  &nbsp;
  &nbsp;
-<div align="center">
-  
-![Carlabraga1 GitHub stats](https://github-readme-stats.vercel.app/api?username=carlabraga1&show_icons=true&theme=great-gatsby) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlabraga1&layout=compact&show_icons=true&theme=great-gatsby)
-</div>
  
  
  <div align="center">   
